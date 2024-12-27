@@ -1,0 +1,27 @@
+# Unity Generated Folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Auto-generated folders
+*.apk
+*.idb
+
+# Crash logs
+sysinfo.txt
